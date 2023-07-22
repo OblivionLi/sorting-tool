@@ -1,7 +1,7 @@
 # sorting tool
-## Sort numbers/lines/words from command-line arguments or files
+## Sort numbers/lines/words by command-line arguments with input from files or users.
 
-#### There are 4 command-line arguments to sort: `-dataType` (`long, word, line`); `-sortingType` (`natural, byCount`); `-inputFile` (name of file); `-outputFile` (name of file)
+#### There are 4 command-line arguments to sort: `-dataType` (`long, word, line`); `-sortingType` (`natural, byCount`); `-inputFile` (name of file); `-outputFile` (name of file).
 
 ---
 ##### Example 1 - sorting longs by count (`>` is user input):
